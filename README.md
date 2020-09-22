@@ -12,5 +12,8 @@
 ```
 ![NKUST](nkust.png "NKUST")
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-[![The Chainsmokers & Coldplay - Something Just Like This (Lyric)](https://img.youtube.com/vi/FM7MFYoylVs/0.jpg)](https://www.youtube.com/watch?v=FM7MFYoylVs "The Chainsmokers & Coldplay - Something Just Like This (Lyric)")
+
+[![Microservices + Events + Docker = A Perfect Trio](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg))](https://www.youtube.com/watch?v=sSm2dRarhPo "Microservices + Events + Docker = A Perfect Trio")
+
