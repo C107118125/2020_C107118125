@@ -10,4 +10,4 @@
 1
 2
 ```
-[Nkust](nksut.png)
+[NKUST](nksut.png)
