@@ -21,6 +21,7 @@
 - [ ] todo list
 - [x] done
 ---
+JAVA
 ```js
 public class HelloWorld
 {
@@ -30,6 +31,7 @@ public class HelloWorld
 }
 ```
 ---
+python
 ```python
 # This program prints Hello, world!
 
